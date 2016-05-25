@@ -30,7 +30,6 @@ void Shell(int a[],int s,int e){
     }
 }
 int main(int argc, const char * argv[]) {
-    // insert code here...
     int a[16];
     int i=1;
     int start,end;
