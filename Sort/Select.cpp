@@ -26,7 +26,6 @@ void Select(int a[],int s,int e){//直接选择排序，初始的排序选择算
     }
 }
 int main(int argc, const char * argv[]) {
-    // insert code here...
     int a[16];
     int i=1;
     int start,end;
