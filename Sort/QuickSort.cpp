@@ -34,7 +34,6 @@ void QuickSort(int a[],int s,int e){//排序算法框架
     }
 }
 int main(int argc, const char * argv[]) {
-    // insert code here...
     int a[16];
     int i=1;
     int start,end;
